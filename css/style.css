@@ -75,4 +75,18 @@ main {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
+} 
+
+.button-see {
+    background-color: #4b1d248f; 
+    border-color: rgb(0, 0, 0);
+    border-radius: 15px; 
+    padding: 10px 20px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
